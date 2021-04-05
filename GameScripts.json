@@ -15,7 +15,7 @@
           "Name2": "OwlHub",
           "Credit2": "Google Chrome|CriShoux",
           "Picture": "./bin/img/owl.png",
-          "Script": "loadstring(game:HttpGet('https://pastebin.com/raw/TpRd0Lka', true))()"
+          "Script": "loadstring(game:HttpGet('https://athoi21.xyz/owlhub', true))()"
         },
         "Unnamed Esp": {
           "Name2": "Unnamed Esp",
