@@ -44,20 +44,6 @@
           }
         }
       },
-      "Ferripro is OP": {
-        "Name": "Ferripro is OP",
-        "Credit": "By ferrigay.",
-        "Image": "https://cdn.discordapp.com/emojis/835254313198420040.png",
-        "GameScripts": {
-          "Cynical": {
-            "Name2": "Rainer Omegay Epic",
-            "Credit2": "- ferrigay",
-            "Picture": "https://cdn.discordapp.com/emojis/835254313198420040.png",
-            "Script": "loadstring(game:HttpGet('https://pastebin.com/raw/vPzSun0j', true))()"
-          }
-        },
-        "GameScripts2": {}
-      },
       "Amongst Us!": {
         "Name": "Amongst Us!",
         "Credit": "By Wizard Studios.",
