@@ -44,7 +44,21 @@
           }
         }
       },
-      "Amongst Us!": {
+      "Blox Fruit": {
+        "Name": "Blox Fruit",
+        "Credit": "By go play eclipsis",
+        "Image": "https://t0.rbxcdn.com/0f4948fe1f9d5446f2b7a1f5b833f848",
+        "GameScripts": {
+          "Cynical": {
+            "Name2": "Blox Fruit Script",
+            "Credit2": "- Arpon AG & Forever4D",
+            "Picture": "https://arponag.xyz/wp-content/uploads/2021/06/bloxf.png",
+            "Script": "loadstring(game:HttpGet('https://pastebin.com/raw/MSVveXgp', true))()"
+          }
+        },
+        "GameScripts2": {}
+      },
+         "Amongst Us!": {
         "Name": "Amongst Us!",
         "Credit": "By Wizard Studios.",
         "Image": "https://t5.rbxcdn.com/0a464c80b98b98adcc8a82db10ac0d81",
