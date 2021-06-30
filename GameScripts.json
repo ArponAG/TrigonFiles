@@ -1,48 +1,5 @@
 {
     "ScriptHub": {
-      "Essential Scripts": {
-        "Name": "Essential Scripts",
-        "Credit": "Epic Scripts!!",
-        "Image": "./bin/img/es.png",
-        "GameScripts": {
-          "Infinite Yield": {
-            "Name2": "Infinite Yield",
-            "Credit2": "EDGE.ZWOLF.MOON",
-            "Picture": "./bin/img/infy.jpg",
-            "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source', true))()"
-          },
-          "OwlHub": {
-            "Name2": "OwlHub",
-            "Credit2": "Google Chrome|CriShoux",
-            "Picture": "./bin/img/owl.png",
-            "Script": "loadstring(game:HttpGet('https://athoi21.xyz/owlhub', true))()"
-          },
-          "Unnamed Esp": {
-            "Name2": "Unnamed Esp",
-            "Credit2": "- ic3w0lf22",
-            "Picture": "./bin/img/unnamed.png",
-            "Script": "loadstring(game:HttpGet('https://pastebin.com/raw/iKKDi4xs', true))()"
-          }
-        },
-        "GameScripts2": {
-          "CMD-X": {
-            "Name2": "CMD-X",
-            "Credit2": "- pigeon/hz/Curvn ",
-            "Picture": "./bin/img/cmdx.png",
-            "Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source', true))()"
-          },"Custom Dex": {
-            "Name2": "Custom Dex",
-            "Credit2": "- Moon & Courtney",
-            "Picture": "./bin/img/cdex.png",
-            "Script": "loadstring(game:GetObjects('rbxassetid://2180084478')[1].Source)()"
-          },
-          "Reviz Admin v2": {
-            "Name2": "Reviz Admin v2",
-            "Credit2": "- illremember#3799",
-            "Picture": "./bin/img/rev.jpg",
-            "Script": "loadstring(game:HttpGet('https://pastebin.com/raw/hix2QGkj', true))()"
-          }
-        }
-      }      
+         
     }
   }
