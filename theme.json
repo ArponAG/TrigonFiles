@@ -1,0 +1,114 @@
+{
+    "Main":{
+
+        "MainBodyColor":"#FF450101",
+        "MainBackgroundImage":"https://qph.fs.quoracdn.net/main-qimg-1e87c6adcf4bd4c431b25d16f6668f33",
+
+        "Topbar":{
+            "TopbarColor":"#5Fff0026",
+            "Note1":"TopBar buttons doesnt support GIF :3",
+            "KillRobloxImg":"https://i.imgur.com/dn5Dj7e.png",      
+            "InjectImg":"https://i.imgur.com/hh5arbC.png",
+            "MinimizeImg":"https://i.imgur.com/WoT08Ph.png",
+            "CloseImg":"https://i.imgur.com/DgDWDnL.png",
+
+            "InjectMenu":{
+                "Background":"#FF6e0518",
+                "ButtonColor":"#5F4f0412"
+            }
+        },
+        "Sidebar":{
+            "BackgrondColor":"#6Fff0026",
+            "Note2": "If you use GIF for more then 1 Image don't use same GIF link or it will break!!",
+            "TrigonLogo":{
+                "Image":"https://i.imgur.com/FEseXQJ.png" 
+            },
+            "ButtonColor":"#6Fff0026",
+            "ScriptExecutor":{
+                "Title":"Script Executor",
+                "Description":"Script Editor/Executor",
+                "Image":"https://i.imgur.com/a1pZO4U.png"
+            },
+            "ScriptBrowser":{
+                "Title":"Script Browser",
+                "Description":"Browse for custom scripts!!",
+                "Image":"https://i.imgur.com/ZOtyaBX.png"
+            },
+            "EssScripts":{
+                "Title":"Essential Scripts",
+                "Description":"Scripts you might need everyday!",
+                "Image":"https://i.imgur.com/LX5h08h.png"
+            },
+            "Settings":{
+                "Title":"Settings",
+                "Description":"Trigon options/settings;",
+                "Image":"https://i.imgur.com/O36l8Mb.png"
+            }
+        },
+
+        "ScriptExecutor":{
+            "Buttons":{
+                "BackgroundColor":"#5Fff0026",
+                "ForegroundColor":"#AFFFFFFF",
+                "Execute":"Execute",
+                "Clear":"Clear",
+                "OpenFile":"Open File",
+                "SaveFile":"Save File"
+
+            },
+            "ScriptBox":{
+                "BackgroundColor":"#5Fff0026",
+                "ItemColor":"#1fffffff",
+                "ScriptBoxMenu":{
+                    "BackgroundColor":"#FF212125"
+                }
+            },                    
+            "ScriptTabs":{
+                "BackgroundColor":"#5Fff0026"
+            }
+        },
+
+        "Essential Scripts":{
+            "Note3":"Comming Soon, I didnt add it yet cuz im lazy :/",
+            "ItemBackgroundColor":"5Fff0026",
+            "ButtonColor":"5Fff0026",
+            "ButtonBorderColor":"5Fff0026"
+        },
+
+        "TabItem":{
+            "BackgroundColor": "#5Fff6e7c",
+            "SelectedColor": "#5F7d000c",
+            "HoverColor": "#1Fff47e0",
+            "CloseTabButton": {
+                "BackgroundColor": "#AFff1279"
+            },
+            "AddTabButton": {
+                "BackgroundColor": "#AF9e0000"
+            }
+        },
+
+        "ScriptBrowser":{
+            "ScriptItems":{
+                "TitleColor":"#FFFFFFFF",
+                "DateColor":"#FFB6B6B6",
+                "BackgroundColor":"#1F7C7C7C"
+            },
+            "ScriptPreview":{
+                "ShadowColor":"#9F1C1D21",
+                "BackgroundColor":"#FF1C1D21",
+                "TitleColor":"#FFFFFFFF",
+                "DateColor":"#FFB8B8B8",
+                "CloseButtonColor":"#FFFF1656",
+                "OpenBrowserButtonColor":"#FF2196F3",
+                "ButtonForegroundColor":"#FFFFFFFF"
+            }
+        },
+
+        "SettingTab":{
+            "ButtonColor":"#AFff0026",
+            "ForegroundColor":"#FFFFFFFF"
+        }
+    }
+}
+
+      
