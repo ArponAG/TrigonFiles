@@ -1,0 +1,296 @@
+{
+  "Main": {
+    "MainBody": {
+      "Background": "#FFf0f0f0",
+      "Accent Color":"Light", 
+      "NOTE0":" Only Use Dark/Light",
+      "Image": "https://media2.giphy.com/media/KHa4VN7yj4AEQkbGQO/giphy.gif?cid=790b761153badcc9ad5c524b0ba4ac252d615cc13a1c3ee7&rid=giphy.gif&ct=g"
+    },
+
+    "Topbar": {
+      "Note1": "TopBar buttons doesnt support GIF :3",
+
+      "Background": "#1FFFFFFF",
+
+      "KillRobloxButton": {
+        "Image": "https://i.imgur.com/dn5Dj7e.png"
+      },
+      "InjectButton": {
+        "Image": "https://i.imgur.com/hh5arbC.png"
+      },
+      "MinimizeButton": {
+        "Image": "https://i.imgur.com/WoT08Ph.png"
+      },
+      "CloseButton": {
+        "Image": "https://i.imgur.com/DgDWDnL.png"
+      },
+
+      "InjectMenu": {
+        "ShadowColor": "#4F8c8c8c",
+        "Background": "#FFebebeb",
+        "Button": {
+          "Background": "#1F8c8c8c",
+          "Foreground": "#FF2e2e2e"
+        }
+      }
+    },
+
+    "Sidebar": {
+      "Note2": "If you use GIF for more then 1 Image don't use same GIF link or it will break!!",
+      "Background": "#0A878787",
+      "TrigonLogo": {
+        "Image": "https://i.imgur.com/lpD9T1S.png"
+      },
+
+      "Footer": {
+        "Background": "#1F9e7373",
+        "DiscordLogo": {
+          "Image": "https://i.imgur.com/CAzyUUt.png"
+        },
+
+        "Status": {
+          "Foreground": "#FF2e2e2e",
+          "Font":"Montserrat",
+          "Size":"12",
+          "FontStyle":"Normal",
+          "FontWeight":"Bold",
+
+          "Working": "#FF009e57",
+          "Patched": "#FF750027",
+          "Font2":"Montserrat",
+          "Size2":"12",
+          "FontStyle2":"Normal",
+          "FontWeight2":"Normal"
+        }
+      },
+
+      "ScriptExecutor": {
+        "Title": {
+          "Text": "Script Executor",
+          "Foreground": "#FF2e2e2e",
+          "Font":"Segoe UI",
+          "Size":"18",
+          "FontStyle":"Normal",
+          "FontWeight":"Bold"
+        },
+        "Description": {
+          "Text": "Script Editor/Executor",
+          "Foreground": "#FF2e2e2e",
+          "Font":"Segoe UI",
+          "Size":"10",
+          "FontStyle":"Italic",
+          "FontWeight":"SemiBold"
+        },
+        "Image": "https://i.imgur.com/u8OJIRn.png",
+        "BackgroundColor": "#DFFFFFFF"
+      },
+
+      "ScriptBrowser": {
+        "Title": {
+          "Text": "ScriptBrowser",
+          "Foreground": "#FF2e2e2e",
+          "Font":"Segoe UI",
+          "Size":"18",
+          "FontStyle":"Normal",
+          "FontWeight":"Bold"
+        },
+        "Description": {
+          "Text": "Browse for custom scripts!!",
+          "Foreground": "#FF2e2e2e",
+          "Font":"Bahnschrift Light",
+          "Size":"10",
+          "FontStyle":"Italic",
+          "FontWeight":"SemiBold"
+        },
+        "Image": "https://i.imgur.com/arDkVoi.png",
+        "BackgroundColor": "#DFFFFFFF"
+      },
+
+      "EssScripts": {
+        "Title": {
+          "Text": "Essential Scripts",
+          "Foreground": "#FF2e2e2e",
+          "Font":"Segoe UI",
+          "Size":"18",
+          "FontStyle":"Normal",
+          "FontWeight":"Bold"
+        },
+        "Description": {
+          "Text": "Scripts you might need everyday!",
+          "Foreground": "#FF2e2e2e",
+          "Font":"Bahnschrift Light",
+          "Size":"9",
+          "FontStyle":"Italic",
+          "FontWeight":"SemiBold"
+        },
+        "Image": "https://i.ibb.co/9pds3Xy/Script-Scroll.png",
+        "BackgroundColor": "#DFFFFFFF"
+      },
+
+      "Settings": {
+        "Title": {
+          "Text": "Settings",
+          "Foreground": "#FF2e2e2e",
+          "Font":"Segoe UI",
+          "Size":"18",
+          "FontStyle":"Normal",
+          "FontWeight":"Bold"
+        },
+        "Description": {
+          "Text": "Trigon Options/Settings;",
+          "Foreground": "#FF2e2e2e",
+          "Font":"Bahnschrift Light",
+          "Size":"10",
+          "FontStyle":"Italic",
+          "FontWeight":"SemiBold"
+        },
+        "Image": "https://i.ibb.co/0tnVPK4/Sbtn-Settinsgs.png",
+        "BackgroundColor": "#DFFFFFFF"
+      }
+    },
+
+    "ScriptExecutor": {
+      "Button": {
+        "Background": "#DFFFFFFF",
+        "Foreground": "#FF2e2e2e",
+
+        "Font":"Bahnschrift Light",
+        "Size":"18",
+        "FontStyle":"Italic",
+        "FontWeight":"SemiBold",
+
+        "Text": {
+          "Execute": "Execute",
+          "Clear": "Clear",
+          "OpenFile": "Open File",
+          "SaveFile": "Save File"
+        }
+      },
+
+      "ScriptBox": {
+        "Background": "#1F8c8c8c",
+        "Item": {
+          "Background": "#2F8c8c8c",
+          "Foreground": "#FF2e2e2e",
+          "Font":"Segoe UI",
+          "Size":"12",
+          "FontStyle":"Normal",
+          "FontWeight":"Regular"
+        },
+
+        "ScriptBoxMenu": {
+          "Background": "#FFdedede",
+          "Button": {
+            "Background": "#DFFFFFFF",
+            "Foreground": "#FF333333",
+            "Font":"Segoe UI",
+            "Size":"16",
+            "FontStyle":"Normal",
+            "FontWeight":"Regular"
+          }
+        }
+      },
+
+      "ScriptTabs": {
+        "Background": "#1F8c8c8c"
+      }
+    },
+
+    "TabItem": {
+      "Background": "#1F8c8c8c",
+      "Foreground": "#FF2e2e2e",
+      "HoverColor": "#6F8c8c8c",
+      "Selected": {
+        "Background": "#AF8c8c8c",
+        "Foreground": "#FFFFFFFF"
+      },
+      "CloseTabButton": {
+        "Background": "#1F9e7373"
+      },
+      "AddTabButton": {
+        "Background": "#1F89aacc"
+      }
+    },
+
+    "ScriptBrowser": {
+      "Texts": {
+        "Foreground": "#FF242424"
+      },
+      "SearchBar": {
+        "BorderBrush": "#AF0088ff",
+        "CarteBrush": "#FF0088ff",
+        "Foreground": "#FF242424",
+        "SelectionBrush": "#FF0088ff"
+      },
+      "ScriptItems": {
+        "TitleColor": "#FF2e2e2e",
+        "DateColor": "#FF696969",
+        "BackgroundColor": "#DFFFFFFF"
+      },
+      "ScriptPreview": {
+        "ShadowColor": "#AF8c8c8c",
+        "BackgroundColor": "#FFebebeb",
+        "TitleColor": "#FF2e2e2e",
+        "DateColor": "#FF4d4d4d",
+        "CloseButtonColor": "#FFFF1656",
+        "OpenBrowserButtonColor": "#FF2196F3",
+        "ButtonForegroundColor": "#FFFFFFFF"
+      }
+    },
+
+    "EssentialScripts": {
+      "Title":{
+        "Background": "#DFFFFFFF",
+        "Foreground": "#FF2e2e2e"
+      },
+      "Card": {
+        "Background": "#aFd6d6d6",
+        "Foreground": "#FF2e2e2e"
+      },
+      "CircleButton": {
+        "Background": "#DFFFFFFF",
+        "BorderBrush": "#4F8c8c8c",
+        "IconColor": "#FF2e2e2e"
+      }
+    },
+
+    "SettingTab": {
+      "Button": {
+        "Background": "#DFFFFFFF",
+        "Foreground": "#FF2e2e2e"
+      },
+      "Checkbox": {
+        "Background": "#FF2e2e2e",
+        "Foreground": "#FF2e2e2e"
+      },
+      "Label": {
+        "Foreground": "#FF2e2e2e"
+      },
+      "ThemeSelector":{
+        "Background": "#00FFFFFF",
+        "BorderBrush": "#FF2e2e2e",
+        "Foreground": "#FF2e2e2e",
+        "Note4":"Cant be bothered to add custom fields for the List......"
+      }
+    }
+  },
+
+  "CustomScriptSyntax":{
+    "Notex":"Check CustomScriptSyntax.xshd to understand this shit xD",
+    "Foreground":"#242424",
+    "LineNumbersForeground":"#242424",
+    "Digits":"#0090a6",
+    "LineComment":"#00ff0c",
+    "Char":"#de1d67",
+    "BlockComment":"#d4a75b",
+    "String":"#d4b700",
+    "MultiLineString":"#9c8400",
+    "Punctuation":"#0073b5",
+    "firstbracket":"#614f00",
+    "Boolean":"#ff0000",
+    "CurrentKeywords":"#7d002a",
+    "Tables":"#1bcc14"
+  }
+}
+
+      
