@@ -1,3 +1,8 @@
+[[--- Changelog 1.5.5 ---- ]]
+
+() Fixed status bug on trigon, (the status would not update if you unload a theme using the checkbox)
+() Updated Trigon launcher to 2.0.7 (Now it looks more Sexy <3
+
 [[--- Changelog 1.5.4 ---- ]]
 
 () Fixed bug on Injection Menu/PopUp
