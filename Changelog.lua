@@ -1,3 +1,8 @@
+[[--- Changelog 1.5.6 ---- ]]
+
+() New Logo, New Splash Screen!!!
+() Fixed some UI bugs (might''ve broken more lol, so please report any bug to Arpon AG
+
 [[--- Changelog 1.5.5 ---- ]]
 
 () Fixed status bug on trigon, (the status would not update if you unload a theme using the checkbox)
