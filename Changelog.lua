@@ -1,5 +1,7 @@
-[[--- Changelog 1.5.6 ---- ]]
+[[--- Changelog 1.5.6.1 ---- ]]
 
+() FIXED CRASH AFTER [ Verifying ] !!!
+-- 1.5.6
 () New Logo, New Splash Screen!!!
 () Fixed some UI bugs (might''ve broken more lol, so please report any bug to Arpon AG
 
