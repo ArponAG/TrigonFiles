@@ -1,3 +1,8 @@
+[[--- Changelog 1.6 ---- ]]
+
+()Updated for ROBLOX UPDATEE
+()Trigon is OP Now :D
+
 [[--- Changelog 1.5.7 ---- ]]
 
 () Made 'Script Browser' load faster.
