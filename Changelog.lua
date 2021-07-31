@@ -1,3 +1,10 @@
+[[--- Changelog 1.6.1 ---- ]]
+
+() Added Custom Synapse UI ('Check Settings')
+() Added Inject notification
+() Dont use hide scriptbox section, it will break the UI. I'll fix later.
+
+
 [[--- Changelog 1.6 ---- ]]
 
 ()Updated for ROBLOX UPDATEE
