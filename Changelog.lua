@@ -1,3 +1,8 @@
+[[--- Changelog 1.6.2 ---- ]]
+()Fixed Auto Inject
+()Added Saveinstance in Settings ('Use it aftr you inject Trigon')
+()Fixed some injection issues
+
 [[--- Changelog 1.6.1 ---- ]]
 
 () Added Custom Synapse UI ('Check Settings')
