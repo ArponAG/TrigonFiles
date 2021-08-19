@@ -1,6 +1,6 @@
-[[--- Changelog 2.0.0 ---- ]]
-() Fixed Invalid Key Error!
-() Fixed Language Error!
+[[--- Changelog 2.0.1 ---- ]]
+() Fixed Invalid Key problem
+() Fixed Language problem!
 
 [[--- Changelog 2.0.0 ---- ]]
 () New UI!!!
