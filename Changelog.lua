@@ -1,4 +1,8 @@
 [[--- Changelog 2.0.0 ---- ]]
+() Fixed Invalid Key Error!
+() Fixed Language Error!
+
+[[--- Changelog 2.0.0 ---- ]]
 () New UI!!!
 () NEW EVERYTHING!!!!
 () Trigon API IS NOW POWERFUL AF!!!
