@@ -1,3 +1,8 @@
+[[--- Changelog 2.0.1a ---- ]]
+() Fixed Execute button on Script List
+() Fixed some bug on Get key!
+() Fixed some other internal bugs
+
 [[--- Changelog 2.0.1 ---- ]]
 () Fixed Invalid Key problem
 () Fixed Language problem!
