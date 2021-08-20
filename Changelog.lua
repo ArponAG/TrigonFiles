@@ -1,4 +1,5 @@
 [[--- Changelog 2.0.1a ---- ]]
+() Removed Inject Notification for security reasons, But it still prints in the console. 
 () Fixed Execute button on Script List
 () Fixed some bug on Get key!
 () Fixed some other internal bugs
