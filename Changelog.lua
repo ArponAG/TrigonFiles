@@ -1,3 +1,6 @@
+[[--- Changelog 2.0.1b ---- ]]
+() Fixed KRNL & Electron API for Arsenal and other games (Before it was freezing on inject)
+
 [[--- Changelog 2.0.1a ---- ]]
 () Removed Inject Notification for security reasons, But it still prints in the console. 
 () Fixed Execute button on Script List
