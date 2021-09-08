@@ -1,24 +1,30 @@
 {
   "Main": {
-    "MainBody": {
 
+    "MainBody": {
       "Background": "#FFf0f0f0",
       "Image": "https://media2.giphy.com/media/KHa4VN7yj4AEQkbGQO/giphy.gif?cid=790b761153badcc9ad5c524b0ba4ac252d615cc13a1c3ee7&rid=giphy.gif&ct=g",
-
-      "Accent Color":"Light", 
+      "Accent Color":"Light",
       "NOTE0":" Only Use Dark/Light"
     },
+
 
     "Topbar":{
       "Opacity":"1",
       "Background":"#f0f0f0",
       "Logo":"https://i.imgur.com/bKPzttk.png",
-
       "Buttons":{
         "Opacity":"0.5",
         "Background":"#212121"
       }
     },
+
+
+    "Footer":{
+      "Background":"#f0f0f0",
+      "Status Foreground":"#212121"
+    },
+
 
     "Sidebar":{
       "Background":"#f0f0f0",
@@ -29,9 +35,96 @@
       } 
     },
 
-    "Footer":{
-      "Background":"#f0f0f0",
-      "Status Foreground":"#212121"
+
+    "ComboBox":{
+      "Background":"#1Fe6e6e6",
+      "Foreground":"#292929",
+      "DropDownBackground":"#f7f7f7",
+      "HoverColor":"#b1b2b6"
+    },
+
+
+    "ExecutionTab":{
+      "Background":"#5fdedede",
+      "Background2":"#Bfdedede",
+      "Buttons":{
+        "Background":"#1Fe6e6e6",
+        "Foreground":"#2b2b2b",
+        "IconColors":{
+          "Execute":"#a6001e",
+          "Clear":"#008db8",
+          "OpenFile":"#cf9100",
+          "SaveFile":"#598999",
+          "KillRoblox":"#700000",
+          "Attach":"#194094"
+        }
+      },
+
+      "Tab": {
+        "Foreground": "#666666",
+        "HoverForeground": "#f7f7f7",
+        "SelectedForeground": "#292929",
+        "ItemHover": "#919191",
+        "ItemSelected": "#f7f7f7",
+        "CloseForeground": "#666666",
+        "CloseHoverColor": "#FF3144",
+        "AddTabForeground": "#292929",
+        "AddTabHover": "#1F6A6A6A"
+      },
+
+      "ScriptList":{
+        "Foreground":"#2b2b2b",
+        "IconColors":{
+         "Folder":"#f2b600",
+         "Lua":"#1471db",
+         "TxT":"#3b3b3b" 
+        }
+      },
+
+      "ScriptListContextMenu":{
+        "Background":"#dedede",
+        "Foreground":"#292929",
+        "ButtonColor":"#Bfdedede",
+        "IconColors":{
+          "Execute":"#a6001e",
+          "LoadScript":"#008db8",
+          "DeleteScript":"#cf9100",
+          "RefreshList":"#598999"
+        }
+      }
+    },
+
+
+    "ScriptHub": {
+      "Topbar": {
+        "Foreground":"#2b2b2b",
+        "Background":"#e6e6e6"
+      },
+
+      "GlobalScripts": {
+        "Background": "#e6e6e6",
+        "Background2": "#dedede",
+        "TitleColor": "#2b2b2b",
+        "DateColor": "#404040",
+        "ButtonColor": "#0A424242",
+        "IconColors": {
+          "OpenLink": "#2300b0",
+          "LoadScript": "#a85700",
+          "ExecuteScript": "#c90051"
+        }
+      },
+
+      "FeaturesScripts": {
+        "Background": "#e6e6e6",
+        "Background2": "#dedede",
+        "TitleColor": "#2b2b2b",
+        "ButtonColor": "#0A424242",
+        "IconColors": {
+          "CopyScript": "#212121",
+          "LoadScript": "#a85700",
+          "ExecuteScript": "#c90051"
+        }
+      }
     },
 
 
@@ -39,7 +132,7 @@
       "Background":"#1Ff0f0f0",
       "Foreground":"#212121",
       "CardBackground":"#f0f0f0",
-
+      "Discordwidget":"light",
       "Buttons":{
         "Foreground":"#212121",
         "Background":"#e3e3e3"
@@ -52,15 +145,30 @@
         "Whitelisted":"#5ec200"
       }
     },
+    
+
+    "Language":{
+      "Background":"#1fe3e3e3",
+      "Foreground":"#212121",
+      "ButtonBackground":"#e3e3e3"
+    },
+    
+
     "Settings":{
       "Background":"#1Ff0f0f0",
       "Foreground":"#212121",
       "inActiveForeground":"#8c8c8c",
       "HoverBackground":"#cccccc",
       "CardBackground":"#e3e3e3",
-      "ToggleBackground":"#2196F3"
+      "ToggleBackground":"#2196F3",
+      "CustomTheme":{
+        "Background":"#EFB4B4B4",
+        "Foreground":"#212121"
+      }
     }
+
   },
+
 
   "CustomScriptSyntax":{
     "Notex":"Check CustomScriptSyntax.xshd to understand this shit xD",
@@ -79,5 +187,3 @@
     "Tables":"#1bcc14"
   }
 }
-
-      
