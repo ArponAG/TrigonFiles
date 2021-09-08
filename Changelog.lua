@@ -1,4 +1,12 @@
-[[--- Changelog 2.0.1b ---- ]]
+[[--- Changelog 2.0.3 ---- ]]
+() Remove Discord popup at start-up
+() ADDED CUSTOM THEME!!!!
+() Added Custom UI('SynapseUI')
+() Fixed some bugs
+() Might've added more bugs so please report if you find any :P
+
+
+[[--- Changelog 2.0.2 ---- ]]
 () Discord Server got deleted so I added a Discord Pop at the start-up ('will be removed after 1 week')
 () New ScriptHub dedsign
 () Added Featured Script Section on ScriptHub ('change it from Global to Featured')
