@@ -1,6 +1,7 @@
 [[--- Changelog 2.0.4 ---- ]]
 () Added Timer for keys ('you can see how much time you have left on the key')
 () Fixed Discord widget
+() Fixed some other bugs
 
 [[--- Changelog 2.0.3 ---- ]]
 () Remove Discord popup at start-up
