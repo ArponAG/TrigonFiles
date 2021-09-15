@@ -1,3 +1,7 @@
+[[--- Changelog 2.0.4a ---- ]]
+() Improved Multi API Status
+() Changed a lot of stuff related to Multi API, now its better :DD
+
 [[--- Changelog 2.0.4 ---- ]]
 () Added Timer for keys ('you can see how much time you have left on the key')
 () Fixed Discord widget
