@@ -1,4 +1,4 @@
-[[--- Changelog 2.0.4d ---- ]]
+[[--- Changelog 2.0.4e ---- ]]
 () Updated for Roblox Update!! [10/14/2021]
 
 [[--- Changelog 2.0.4a ---- ]]
