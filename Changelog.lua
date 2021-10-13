@@ -1,3 +1,6 @@
+[[--- Changelog 2.0.4d ---- ]]
+() Updated for Roblox Update!! [10/14/2021]
+
 [[--- Changelog 2.0.4a ---- ]]
 () Improved Multi API Status
 () Changed a lot of stuff related to Multi API, now its better :DD
