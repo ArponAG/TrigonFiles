@@ -1,4 +1,4 @@
-[[--- Changelog 2.0.4e ---- ]]
+[[--- Changelog 2.0.5 ---- ]]
 () Fixed Status (used to glitch after u clicked atattch button)
 () Reduced lag on script hub
 () Removed seconds from Key Status Timer
