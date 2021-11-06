@@ -1,4 +1,9 @@
 [[--- Changelog 2.0.4e ---- ]]
+() Fixed Status (used to glitch after u clicked atattch button)
+() Reduced lag on script hub
+() Removed seconds from Key Status Timer
+
+[[--- Changelog 2.0.4e ---- ]]
 () Updated for Roblox Update!! [10/14/2021]
 
 [[--- Changelog 2.0.4a ---- ]]
