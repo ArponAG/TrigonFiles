@@ -1,3 +1,6 @@
+[[--- Changelog 2.1.1 ---- ]]
+()Fixed UI Crash on Windows 7
+
 [[--- Changelog 2.1 ---- ]]
 () Rerquire Admin Permission (for the new injector)
 () New Injector ('Roblox anti-cheat bypassed')
