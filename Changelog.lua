@@ -1,3 +1,7 @@
+[[--- Changelog 2.1.2 ---- ]]
+() Fixed Injector for Windows 7
+() Fixed a bug on tab system (i hope its fixed :/)
+
 [[--- Changelog 2.1.1 ---- ]]
 ()Fixed UI Crash on Windows 7
 
