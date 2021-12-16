@@ -1,3 +1,19 @@
+[[--- Changelog 2.2 ---- ]]
+()Added Search on ScriptList 
+()Fixed Attach Issue
+()Added DACInject toggel, you can disable it if you can not attach
+()Added Fix for Error Code: 268 ('Check Settings')
+()Fixed scripts not loading on ScriptHub
+()Fixed Crash on long script paste
+()Script tabs now save on "bin/tabs"
+()Added Monaco
+--Notes if you use Monaco!
+--Monaco is buggy,
+--Monaco will cause issues while closing the ui,
+--Custom theme doesnt support Monaco yet,
+--Overall monaco is buggy so no complains please :/
+()Also Thanks to Jiren ;)
+  
 [[--- Changelog 2.1.2 ---- ]]
 () Fixed Injector for Windows 7
 () Fixed a bug on tab system (i hope its fixed :/)
