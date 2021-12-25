@@ -1,3 +1,6 @@
+[[--- Changelog 2.2.1 ---- ]]
+()Fixed some stuff on Cloud Script Hub
+
 [[--- Changelog 2.2 ---- ]]
 ()Added Search on ScriptList 
 ()Fixed Attach Issue
