@@ -1,3 +1,6 @@
+[[--- Changelog 2.2.2 ---- ]]
+()Changed some stuff on script-hub (it was using a lot of bandwidth)
+
 [[--- Changelog 2.2.1 ---- ]]
 ()Fixed some stuff on Cloud Script Hub
 
