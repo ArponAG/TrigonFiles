@@ -1,3 +1,6 @@
+[[--- Changelog 2.2.3a ---- ]]
+(+)Fixed UI Crash on Attach.
+
 [[--- Changelog 2.2.3 ---- ]]
 (+)New API
 (+)Now it will work on Multiple Roblox without any issues
