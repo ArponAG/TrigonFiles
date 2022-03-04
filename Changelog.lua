@@ -1,3 +1,10 @@
+[[--- Changelog 2.2.3 ---- ]]
+(+)New API
+(+)Now it will work on Multiple Roblox without any issues
+(-)Removed DAC
+(-)Custom UI will not work, I will update them later
+
+
 [[--- Changelog 2.2.2 ---- ]]
 ()Changed some stuff on script-hub (it was using a lot of bandwidth)
 
