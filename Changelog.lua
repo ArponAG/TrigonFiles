@@ -1,3 +1,7 @@
+[[--- Changelog 2.2.3b ---- ]]
+(+)Fixed some issues on attach error
+(+)Added a progress bar when dll updates
+
 [[--- Changelog 2.2.3a ---- ]]
 (+)Fixed UI Crash on Attach.
 
@@ -15,7 +19,7 @@
 ()Fixed some stuff on Cloud Script Hub
 
 [[--- Changelog 2.2 ---- ]]
-()Added Search on ScriptList 
+()Added Search on ScriptList https://github.com/ArponAG/TrigonFiles/blob/main/Changelog.lua
 ()Fixed Attach Issue
 ()Added DACInject toggel, you can disable it if you can not attach
 ()Added Fix for Error Code: 268 ('Check Settings')
