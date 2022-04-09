@@ -1,3 +1,6 @@
+[[--- Changelog 2.2.3c ---- ]]
+(+) idk
+
 [[--- Changelog 2.2.3b ---- ]]
 (+)Fixed some issues on attach error
 (+)Added a progress bar when dll updates
