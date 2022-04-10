@@ -1,3 +1,7 @@
+[[--- Changelog 2.2.3d ---- ]]
+(+)Added Roblox re-installer, Check settings of Trigon
+(+)Fixed some issues on attach
+
 [[--- Changelog 2.2.3c ---- ]]
 (+) idk
 
