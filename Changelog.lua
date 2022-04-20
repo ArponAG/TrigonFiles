@@ -1,4 +1,7 @@
 [[--- Changelog 2.2.3e ---- ]]
+(+) Fixed download issue (it was asking to download trigon dll everytime you open Trigon)
+
+[[--- Changelog 2.2.3e ---- ]]
 (+) Fixed attach issue
 
 [[--- Changelog 2.2.3d ---- ]]
