@@ -1,3 +1,7 @@
+[[--- Changelog 2.2.8 ---- ]]
+(+) Added UWP Roblox Support
+(+) Removed other APIS (might add them latter) 
+
 [[--- Changelog 2.2.7 ---- ]]
 (+) Fixed workspace issue
 
